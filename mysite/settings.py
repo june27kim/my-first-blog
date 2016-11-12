@@ -25,7 +25,7 @@ SECRET_KEY = 'klp(i0_l##qtxc+)eqlv&7w5v#kox08yycpr=g7!1b6o0%^21x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['june27kim.pythonanywhere.com']
 
 
 # Application definition
